@@ -9,7 +9,8 @@ Obtain the online sales data from the Github paltfrom, including Order records, 
 # Data Cleaning and Preparation:
 1. Clean the data by short word to correct full Name of gender column, correcting the text value store in numerical column changed to numeric , and Checking missing values.
 2. Create necessary additional columns "age group and exact the month name from date column" with the help of IF Function and Date Function for calculations needed for analysis.
-3. Organised the data in a way to create the chart's according.
+3. create the pivot table from the data to Measure the data and make graphical representation according.
+4. Organised the data in a way to create the chart's according.
 
 # Visualization:
 1. Comparing the Month wise Count of order and Sum of sales by creating the Clustred Column Chart.
